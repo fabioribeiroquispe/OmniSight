@@ -38,7 +38,7 @@ graph TD
     
     Validator -->|Aprovado| User
     Validator -->|Alucinação Detectada| Router
-
+```
 🛠️ Tech Stack
  * Linguagem: Python 3.10+
  * Orquestração de Agentes: CrewAI / LangGraph
